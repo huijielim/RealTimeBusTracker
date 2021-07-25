@@ -14,7 +14,7 @@ There is no current roadmap or enhancements plans for existing build.
 ## License information: 
 MIT License
 ## Filestructure:
-- Index.html
+- index.html
 - mapanimation.js
 - styles.css
 
